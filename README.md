@@ -30,17 +30,7 @@ python app.py
 
 Then navigate to `http://127.0.0.1:5000/` and access the tool
 
-## Documentation
 
-Refer to <a href="https://github.com/nilax97/NLP-Project/blob/master/report.pdf" target="_blank"> report.pdf  </a>
-
-## Author
-
-**Nilaksh Agarwal**
-
-* Website: [nilax97.github.io](https://nilax97.github.io/)
-* Github: [@nilax97](https://github.com/nilax97)
-* LinkedIn: [@nilaksh97](https://linkedin.com/in/nilaksh97)
 
 ## License
  
