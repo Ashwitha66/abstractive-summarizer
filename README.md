@@ -32,10 +32,4 @@ Then navigate to `http://127.0.0.1:5000/` and access the tool
 
 
 
-## License
- 
-MIT License
 
-Copyright (c) 2021 Nilaksh Agarwal
-
-***#
